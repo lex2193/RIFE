@@ -1,0 +1,6 @@
+*.pyc
+*.py~
+*.py#
+*.mp4
+*.npz
+*.zip
